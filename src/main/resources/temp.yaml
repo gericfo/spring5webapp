@@ -1,0 +1,9 @@
+# This is a comment
+
+somekey: value
+
+somekey2: value # this is another comment
+
+myObject:
+    stringProperty: asad
+    numberProperty: 123
